@@ -1,0 +1,105 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "image": "https://www.industrialempathy.com/img/remote/ZiClJf-1920w.jpg",
+      "title": "محصول 1",
+      "price": 210,
+      "description": "این محصول یک محصول خوب است"
+    },
+    {
+      "id": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtnvAOajH9gS4C30cRF7rD_voaTAKly2Ntaw&s",
+      "title": "محصول 2",
+      "price": 220,
+      "description": "این محصول یک محصول خوب است"
+    },
+    {
+      "id": 3,
+      "image": "https://th.bing.com/th/id/OIG4.7h3EEAkofdcgjDEjeOyg",
+      "title": "محصول 3",
+      "price": 500,
+      "description": "این محصول یک محصول خوب است"
+    },
+    {
+      "id": 4,
+      "image": "https://th.bing.com/th/id/OIG4.7h3EEAkofdcgjDEjeOyg",
+      "title": "محصول 4",
+      "price": 1000,
+      "description": "این محصول یک محصول خوب است"
+    },
+    {
+      "id": 5,
+      "image": "https://th.bing.com/th/id/OIG4.7h3EEAkofdcgjDEjeOyg",
+      "title": "محصول 5",
+      "price": 2000,
+      "description": "این محصول یک محصول خوب است"
+    },
+    {
+      "id": 6,
+      "image": "https://www.industrialempathy.com/img/remote/ZiClJf-1920w.jpg",
+      "title": "محصول 6",
+      "price": 210,
+      "description": "این محصول یک محصول خوب است"
+    },
+    {
+      "id": 7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtnvAOajH9gS4C30cRF7rD_voaTAKly2Ntaw&s",
+      "title": "محصول 7",
+      "price": 220,
+      "description": "این محصول یک محصول خوب است"
+    },
+    {
+      "id": 8,
+      "image": "https://th.bing.com/th/id/OIG4.7h3EEAkofdcgjDEjeOyg",
+      "title": "محصول 8",
+      "price": 500,
+      "description": "این محصول یک محصول خوب است"
+    },
+    {
+      "id": 9,
+      "image": "https://th.bing.com/th/id/OIG4.7h3EEAkofdcgjDEjeOyg",
+      "title": "محصول 9",
+      "price": 1000,
+      "description": "این محصول یک محصول خوب است"
+    },
+    {
+      "id": 10,
+      "image": "https://th.bing.com/th/id/OIG4.7h3EEAkofdcgjDEjeOyg",
+      "title": "محصول 10",
+      "price": 2000,
+      "description": "این محصول یک محصول خوب است و قیمت خیلی خوبی دارد و خیلی خوب است و "
+    },
+    {
+      "id": 0,
+      "title": "عروسک",
+      "price": "250000",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE0EITv2ja3cpHqC9mc6Rzu6SlJPYVGzgKRA&s",
+      "description": "کمثتبسهخرتخنشئنصثئرخدثصتدرتسدزز\nرنخدتشسرنزئثشنخسیدرتخجثدقختذرتنخشیبئذ \nثقئذرتن ذدثسیتخر خندثصستخقردث"
+    },
+    {
+      "id": 944,
+      "title": "عروسک 2",
+      "price": "250000",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE0EITv2ja3cpHqC9mc6Rzu6SlJPYVGzgKRA&s",
+      "description": "نمسئدترهقضثتخقلمبنئدتضثقصدذهخثرتخحثقدتخر دثحقذر\nثقمنذدرشاذ تدخدثسنقدذرخث\nصثحسذدی تخدئحثصسئرحقص"
+    }
+  ],
+  "discounts": [
+    {
+      "id": 1,
+      "code": "OFF10",
+      "percentage": 10
+    },
+    {
+      "id": 2,
+      "code": "OFF20",
+      "percentage": 20
+    },
+    {
+      "id": 3,
+      "code": "SAVE10",
+      "percentage": 30
+    }
+  ]
+}
